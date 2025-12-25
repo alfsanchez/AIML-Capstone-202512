@@ -1,16 +1,17 @@
 # AIML-Capstone-202512
-This repository is created to house all data and documents used to complete the Post Graduate Diploma on Artificial Intelligence and Machine Learning. My capstone is called "Leveraging Machine Learning to Improve Lead Quality for Bank-initiated Campaigns". The goal is to illustrate how the use of propensity models can bridge the quality gap of leads by being able to tap into customers who will likely find the product offerings relevant vs other approaches like pure random selection and rule-based logics.
+This repository is created to house all data and documents used to complete the Post Graduate Diploma on Artificial Intelligence and Machine Learning. My capstone is called "Leveraging Machine Learning to Improve Lead Quality for Bank-initiated Campaigns". The goal is to illustrate how the use of propensity models can bridge the quality gap of leads by empowering the bank to tap into customers who will likely find the product offerings relevant vs other approaches like pure random selection and rule-based logics.
 
-The business challenge I wished to address is that while the bank may have an abundant pool of customers ripe for offering Term Deposit to get sufficient leads, downstream conversion and revenue are lagging indicating a quality gap in acquired leads. I then transformed this to a question answerable by data: What customer data on demographics, relationships, transactions, behavior, and interactions can be used to maximize the propensity to convert and enable delivery of higher campaign ROI?
+The business challenge I wished to address is that while a bank may have an abundant pool of customers ripe for offering Term Deposit to get sufficient leads, at times downstream conversion and revenue are lagging indicating a quality gap in acquired leads. I then transformed this to a question answerable by data: What customer data on demographics, relationships, transactions, behavior, and interactions can be used to maximize the propensity to convert and enable delivery of higher campaign ROI?
 
-Anyway, this repository contains the following:
-1. Copy of the raw data I used, which is also available from Kaggle (link: https://archive.ics.uci.edu/ml/datasets/bank+marketing). It's the Bank Marketing data by Henrique Yamahata
-2. Data dictionary in Excel combining information from the files shared containing details about the dataset and the assumptions I worked with given the objectives of my capstone project
-3. Requirements.txt shows all the libraries I used in my code
-4. Jupyter notebook that houses all the codes I used to run all of the analytic requirements of the capstone
-5. Technical Presentation with data and analytics practitioners as audience (i.e., can understand and appreciate codes)
-6. Business Deck with senior business leaders as the target audience
-7. Model saved as pkl
+This repository contains the following:
+1. In the main page, you will see the final output I submitted for the course
+2. Requirements.txt shows all the python libraries and packages I used
+3. Copy of the Bank Marketing data by Henrique Yamahata; also available from Kaggle (link: https://archive.ics.uci.edu/ml/datasets/bank+marketing) 
+4. Data dictionary in Excel combining details shared about the dataset and the assumptions I worked with given the objectives of my capstone project
+5. Jupyter notebook that houses all the codes I used to run all of the analytic requirements of the capstone
+6. Technical Presentation with data and analytics practitioners as audience (i.e., can understand and appreciate codes)
+7. Business Deck with senior business leaders as the target audience
+8. Model saved as pkl
 
 Through this capstone, I was able to show how conversion can be improved to double vs baseline by employing machine learning techniques; Logistic Regression in this case. From an 11% conversion using pure random selection, conversion rate jumped to 22% upon employing logistic regression model results. Customer segmentation was also done so that the business has the option to tailor offers based on the profiles of the identified segments.
 
