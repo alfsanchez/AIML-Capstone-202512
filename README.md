@@ -17,6 +17,6 @@ Through this capstone, I was able to show how conversion can be improved to doub
 
 Thank you for taking the time to visit my repository! Gentle disclaimer (or warning) that this is my first foray into the world of Data Science, Artificial Intelligence, and Machine Learning. While I was able to achieve all I intended to do for my capstone (aside from deployment), I believe there are a lot of room for improvements particularly in writing more efficient python codes. Feel free to use the codes as reference but know there are likely better ways to code parts of my Python program.
 
-About the Author
+**About the Author** <br>
 My name is Alf Sanchez, a Trusted Voice of Data and Business Partner Enabler currently working for a bank in the Philippines.
 Fueled by a lifelong curiosity and a healthy obsession with data, I’ve come to realize that what truly draws me to Mathematics isn’t the precision of numbers—it is the thrill of solving a problem in more ways than one. This mindset shaped my two decades in Data and Analytics: curious, creative, and constantly learning. I’m energized by the challenge of turning raw data into smart, actionable insights that help organizations work sharper, faster, and better. Because in the world of data, there’s rarely one right path—just the right thinking.
